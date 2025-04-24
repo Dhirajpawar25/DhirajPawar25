@@ -34,8 +34,11 @@ I’m passionate about uncovering insights from data and building intelligent sy
 
 ## 📚 Featured Projects
 
-- 🤖 **[ML Model Playground](https://github.com/yourusername/ml-model-playground)**  
-  A collection of supervised and unsupervised ML projects using Scikit-learn and real-world datasets.
+- 🤖 **[Customer Car Price Estimator App](https://github.com/Dhirajpawar25/Customer-Car-Price-Estimator-App)**  
+  This project demonstrates how data science and machine learning can be used to support decision-making in a real-world business scenario—car pricing suggestions 
+  based on customer profiles.
+
+**How it works:**
 
 - 📊 **[EDA Toolkit](https://github.com/yourusername/eda-toolkit)**  
   Automated exploratory data analysis using Python and Seaborn.
